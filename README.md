@@ -1,6 +1,7 @@
 Obviously you can call me Ost, I have 2 programming languages one is Python and the other is GDScript I use them because they are very easy to learn, (GDScript is HARDER LMAO) 
 
 😄|Pronoums: He/Him
+
 🙂|Age: 16 years Old
 
 Digital Artist, Newbie Music Composer, Game Dev, and Student 
@@ -23,3 +24,5 @@ Digital Artist, Newbie Music Composer, Game Dev, and Student
 - Five Nights at Freedy's
   
 😄|If you want know What favorite characters do I like: Godzilla, PAC-MAN, Foxy and others 
+
+⚠️|So please do not Bother me 
