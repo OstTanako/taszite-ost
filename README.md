@@ -32,4 +32,4 @@ Digital Artist, Newbie Music Composer, Game Dev, and Student
 Godzilla, PAC-MAN and others
 
 ⚠️| please do not piss me off
-![Ost's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Ost's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoOst&show_icons=true&theme=tokyonight)
