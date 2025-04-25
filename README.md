@@ -1,4 +1,4 @@
-Obviously you can call me Ost, Neko Ost or Neko
+Obviously you can call me as Ost
 
 😄|Pronoums: He/Him
 
@@ -28,8 +28,6 @@ Digital Artist, Newbie Music Composer, Game Dev, and Student
 - GDScript (Godot's Language)
 - BDScript (Bot Designer for Discord)
   
-😄|If you want know What favorite characters do I like: 
-Godzilla, PAC-MAN and others
-
 ⚠️| please do not piss me off
+
 ![Ost's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoOst&show_icons=true&theme=tokyonight)
