@@ -14,15 +14,7 @@ Digital Artist, Newbie Music Composer, Game Dev, and Student
 
 💻|I know a little knowledge of computing, currently more familiar with Windows 
 
-🎮|I have many favorite games like: 
-- Tetris
-- Minecraft
-- Roblox 
-- PAC-MAN Championship Edition
-- Brick Breaker Sprint
-- Changed Berserk
-- Five Nights at Freedy's
-- Rain World
+🎮|I like more PAC-MAN, Tetris, UNO, FNAF and other games
 
 💻| Acostumed Languages 
 - Phyton (my Primary language)
