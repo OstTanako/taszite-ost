@@ -23,4 +23,4 @@ Digital Artist, Newbie Music Composer, Game Dev, and Student
   
 ⚠️| please do not piss me off
 
-![Ost's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoOst&show_icons=true&theme=tokyonight)
+![Ost's GitHub stats](https://github-readme-stats.vercel.app/api?username=taszite-ost&show_icons=true&theme=tokyonight)
