@@ -2,7 +2,7 @@ Obviously you can call me as Ost
 
 😄|Pronoums: He/Him
 
-🙂|Age: 16 years Old
+🙂|Age: 17 years Old
 
 Digital Artist, Newbie Music Composer, Game Dev, and Student 
 
